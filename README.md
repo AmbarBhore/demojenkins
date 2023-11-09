@@ -1,3 +1,1 @@
-# demojenkins !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-Poll SCM Testing
+# demojenkins !!!!!!!!!!!!!!!!!! PoLL SCM
